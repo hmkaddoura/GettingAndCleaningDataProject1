@@ -7,4 +7,4 @@ first of all, the script should be located in the unzipped folder where you shou
 Second, run the script line by line in your R Studio.
 Once done, you should find tidyDAtaSet.txt created in the same folder 
 
-Thats all.
+Thats all...
